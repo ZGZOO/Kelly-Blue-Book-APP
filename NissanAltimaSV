@@ -1,0 +1,33 @@
+Nissan
+AltimaSV
+14875
+5
+color
+10
+"Gold",0.0
+"Grey",0.0
+"Red",0.0
+"Green",0.0
+"Sangria Red",0.0
+"French Blue",0.0
+"Twilight Blue",0.0
+"CD Silver",0.0
+"Pitch Black",0.0
+"Cloud 9 White",0.0
+transmission
+2
+automatic,0.0
+manual,-1015
+brakes
+3
+standard,0.0
+ABS,300
+ABSadvance,1428
+airbags
+2
+none,0.0
+selected,250
+moonroof
+2
+none,0.0
+selected,395
